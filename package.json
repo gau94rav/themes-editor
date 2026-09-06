@@ -21,5 +21,8 @@
     "vite": "^2.8.0",
     "vite-plugin-components": "^0.13.3",
     "vite-plugin-pages": "^0.22.0"
+  },
+  "overrides": {
+    "immutable": "4.3.8"
   }
 }
